@@ -55,4 +55,4 @@
           (game :sitcom sitcom :lives (1- lives)  :guessed-letters (cons letter guessed-letters))
           (game :sitcom sitcom :lives lives       :guessed-letters (cons letter guessed-letters))))))
 
-(game)
+
